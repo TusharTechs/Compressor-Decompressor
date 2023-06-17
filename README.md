@@ -24,5 +24,5 @@ Contributions to this project are welcome. If you have any suggestions, improvem
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-The GZIP compression and decompression functionality in this project is based on the Java standard library classes #GZIPOutputStream and #GZIPInputStream.
+The GZIP compression and decompression functionality in this project is based on the Java standard library classes GZIPOutputStream and GZIPInputStream.
 The project structure and GUI implementation were inspired by various Java programming resources and tutorials.
