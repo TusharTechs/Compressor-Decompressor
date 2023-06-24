@@ -10,15 +10,23 @@ This project provides a simple Java-based implementation of a file compressor an
 
 ## Screenshots
 - The Application-User Interface.
+
+
 ![Screenshot_2](https://github.com/TusharTechs/Compressor-Decompressor/assets/56952465/427cb7b9-59ab-4508-81d5-ef63200ef3af)
 
 -Selecting a file to compress.
+
+
 ![Screenshot_3](https://github.com/TusharTechs/Compressor-Decompressor/assets/56952465/138ebae3-2097-4492-b317-c3606baa258e)
 
 -File compression.
+
+
 ![Screenshot_4](https://github.com/TusharTechs/Compressor-Decompressor/assets/56952465/0fc2b017-f177-4f92-a7d7-37ae2a0a5f14)
 
 -Compressed file gets saved in same folder.
+
+
 ![Screenshot_5](https://github.com/TusharTechs/Compressor-Decompressor/assets/56952465/a2612055-158b-4bab-b8f0-422519ef5a74)
 
 
